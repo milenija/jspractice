@@ -1,0 +1,35 @@
+body {
+	background-color: ghostwhite;
+	font-family: Helvetica;
+	font-size: 1rem;
+}
+
+h1 {
+text-align: center;
+}
+
+article {
+	margin: auto;
+    width: 960px;
+}
+
+div {
+	width: 200px;
+	float: left;
+	border: solid grey 1px;
+	margin-right: 20px;
+	margin-bottom: 20px;
+	padding:0 7px;
+}
+
+p {
+	text-align: center;
+}
+
+button {
+	width: 50px;
+	position:relative;
+    top:50%; 
+    left:38%;
+    margin-bottom: 10px;
+}
